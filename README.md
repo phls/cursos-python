@@ -33,4 +33,4 @@
 * Link: <https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567>
 
 
-
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
